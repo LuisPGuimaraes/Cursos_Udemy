@@ -7,4 +7,6 @@ Projetos desenvolvidos durante meu desenolvimento
         Python
         HTML
         CSS
-        
+    
+    
+    Conhecimento em GitHub, metodologia Scrum.
