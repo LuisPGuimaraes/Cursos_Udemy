@@ -2,11 +2,5 @@
 Projetos desenvolvidos durante meu desenolvimento 
 
     Estudo na Faculdade de Tecnologia de São José dos Campos, no curso de Banco de Dados
-
-    Linguagens utiliadas durante meu desenvolvimento pessoal e acadêmico:
-        Python
-        HTML
-        CSS
     
-    
-    Conhecimento em GitHub, metodologia Scrum.
+    Conhecimento em Python, utilizo da metodologia Scrum para realização dos trabalhos bem como o GitHub
