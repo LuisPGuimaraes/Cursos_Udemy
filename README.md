@@ -1,6 +1,5 @@
-# Meus Projetos
-Projetos desenvolvidos durante meu desenolvimento 
+# Atividades de cursos
 
-    Estudo na Faculdade de Tecnologia de São José dos Campos, no curso de Banco de Dados
+Neste respositório possui exercícios e projetos realizados durante meu aprendizado em cursos exteriores a minha graduação. 
+
     
-    Conhecimento em Python, utilizo da metodologia Scrum para realização dos trabalhos bem como o GitHub
