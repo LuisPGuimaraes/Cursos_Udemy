@@ -1,0 +1,15 @@
+Classes
+    Um molde para objetos, com características principais semelhantes;
+    Originada de uma palavra class Ex: class Pessoa:
+    Primeira letra da classe sempre maiúscula
+
+Objetos
+    'Filho'de uma classe, pode utiliar as propriedades e métodos
+    definidos na classe;
+    Independente da classe;
+
+Metodos
+    São funções criadas para os objetos
+    podem interagir com outros objetos 
+
+
